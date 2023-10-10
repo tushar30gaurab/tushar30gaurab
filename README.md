@@ -28,7 +28,7 @@ I'm a passionate Software Engineer based in India. I love Coding and enjoy Trave
 
 ## 🌱 What I'm Currently Working On
 
-I'm currently focusing on [Your Current Project or Goal], where I'm using [Languages/Frameworks/Tools].
+I'm currently focusing on Java, Spring Boot with a blend of ELK Stack, where I'm using [Languages/Frameworks/Tools].
 
 ## 🚀 My Projects
 
@@ -42,9 +42,9 @@ You can find more about my work on my [Portfolio Website](link-to-portfolio) or 
 
 ## 📫 How to Reach Me
 
-- Email: [Your Email](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- Email: [Your Email](mailto:tushar30gaurab@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-gourav)
+- Twitter: [@YourTwitterHandle](https://twitter.com/GouravTuahar)
 - Personal Website: [Your Website](https://www.yourwebsite.com/)
 
 ## 💬 Let's Connect
