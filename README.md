@@ -34,9 +34,9 @@ I'm currently focusing on Java, Spring Boot with a blend of ELK Stack, where I'm
 
 Here are some of my noteworthy projects:
 
-- [Project 1](link-to-project1): Short project description.
-- [Project 2](link-to-project2): Short project description.
-- [Project 3](link-to-project3): Short project description.
+- [Project 1](https://github.com/tushar30gaurab/spring-boot-elasticsearch-project): SpringElastic REST API with CRUD.
+- [Project 2](https://webapp-sorting-visualiser.netlify.app/): Sorting Algorithm Visualiser.
+- [Project 3](https://todo-app-cp-fff89.web.app/): TODO App with React JS.
 
 You can find more about my work on my [Portfolio Website](link-to-portfolio) or on my [GitHub Repositories](https://github.com/YourUsername?tab=repositories).
 
