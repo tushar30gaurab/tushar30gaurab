@@ -44,7 +44,7 @@ You can find more about my work on my [Portfolio Website](link-to-portfolio) or 
 
 - Email: [tushar30gaurab](mailto:tushar30gaurab@gmail.com)
 - LinkedIn: [tushar-gourav](https://www.linkedin.com/in/tushar-gourav)
-- Twitter: [@GouravTushar](https://twitter.com/GouravTuahar)
+- Twitter: [@GouravTushar](https://twitter.com/GouravTushar)
 - Personal Website: [Hey! Its me, Tushar](https://tushar30gaurab.github.io/hey_portfolio/)
 
 ## 💬 Let's Connect
