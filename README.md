@@ -42,10 +42,10 @@ You can find more about my work on my [Portfolio Website](link-to-portfolio) or 
 
 ## 📫 How to Reach Me
 
-- Email: [Your Email](mailto:tushar30gaurab@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-gourav)
-- Twitter: [@YourTwitterHandle](https://twitter.com/GouravTuahar)
-- Personal Website: [Your Website](https://www.yourwebsite.com/)
+- Email: [tushar30gaurab](mailto:tushar30gaurab@gmail.com)
+- LinkedIn: [tushar-gourav](https://www.linkedin.com/in/tushar-gourav)
+- Twitter: [@GouravTushar](https://twitter.com/GouravTuahar)
+- Personal Website: [Hey! Its me, Tushar](https://tushar30gaurab.github.io/hey_portfolio/)
 
 ## 💬 Let's Connect
 
