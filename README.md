@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a passionate Software Engineer based in India. I love Coding and enjoy Travelling. With a background in B.Tech, I'm always eager to learn and explore new technologies and tools.
+I'm a passionate Software Engineer based in India❤️. I love Coding and enjoy Travelling. With a background in B.Tech, I'm always eager to learn and explore new technologies and tools.
 
 ## 🔭 My GitHub Stats
 
@@ -45,7 +45,7 @@ You can find more about my work on my [Portfolio Website](link-to-portfolio) or 
 - Email: [tushar30gaurab](mailto:tushar30gaurab@gmail.com)
 - LinkedIn: [tushar-gourav](https://www.linkedin.com/in/tushar-gourav)
 - Twitter: [@GouravTushar](https://twitter.com/GouravTushar)
-- Personal Website: [Hey! Its me, Tushar](https://tushar30gaurab.github.io/hey_portfolio/)
+- Personal Website: [Hey there!](https://tushar30gaurab.github.io/hey_portfolio/)
 
 ## 💬 Let's Connect
 
