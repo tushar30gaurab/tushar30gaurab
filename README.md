@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-  # Hi there, I'm Tushar 👋
+  # Hi there👋, I'm Tushar😀
 
 ## About Me
 
@@ -25,6 +25,9 @@ I'm a passionate Software Engineer based in India❤️. I love Coding and enjoy
 ## 🔭 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar30gaurab&show_icons=true&theme=dark)
+
+## 🤩 Profile Visits
+![](https://komarev.com/ghpvc/?username=tushar30gaurab)
 
 ## 🌱 What I'm Currently Working On
 
@@ -49,7 +52,8 @@ You can find more about my work on my [Portfolio Website](link-to-portfolio) or 
 
 ## 💬 Let's Connect
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me via email or social media!
+Always open to techie conversations and collaboration opportunities. Feel free to reach out to me via email or social media!
+
 
 <!-- Optional: Add badges, gif, or any additional information you'd like to showcase -->
 
