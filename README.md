@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## 📫 About Me
 
-- I'm a passionate Software Engineer based in India 🇮🇳
-- Love for coding 💻 and enjoy travelling ⛰️
-- With a background in Tech Engineering, I'm always eager to learn and explore new techs n' tools
+- Software Engineer, IN 🇮🇳
+- Love to code 💻 and travel ⛰️
+- Background in Tech Engineering, Always eager to explore new tech n' tools
 
 ## 🔭 My GitHub Stats
 
