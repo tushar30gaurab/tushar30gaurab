@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a passionate Software Engineer based in India 🇮🇳. I love Coding and enjoy Travelling. With a background in Tech Engineering, I'm always eager to learn and explore new techs n' tools.
+I'm a passionate Software Engineer based in India 🇮🇳. 
+I love Coding and enjoy Travelling. With a background in Tech Engineering, I'm always eager to learn and explore new techs n' tools.
 
 ## 🔭 My GitHub Stats
 
