@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🌱 What I'm Currently Working On
 
-I'm currently focusing on Java, Spring Boot with a blend of ELK Stack, where I'm using [Languages/Frameworks/Tools].
+I'm currently focusing on Full Stack (Python, Typescipt, AWS CDK & Cloudformation), where I'm using [ReactJS, AWS, DevOps, Python].
 
 ## 🚀 My Projects
 
