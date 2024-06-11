@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
   # Hi there👋, I'm Tushar😀
 
-## About Me
+## 📫 About Me
 
 - I'm a passionate Software Engineer based in India 🇮🇳
-- I love Coding and enjoy Travelling. With a background in Tech Engineering, I'm always eager to learn and explore new techs n' tools
+- Love for coding 💻 and enjoy travelling ⛰️
+- With a background in Tech Engineering, I'm always eager to learn and explore new techs n' tools
 
 ## 🔭 My GitHub Stats
 
